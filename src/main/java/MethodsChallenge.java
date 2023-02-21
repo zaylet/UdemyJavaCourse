@@ -36,7 +36,7 @@ public class MethodsChallenge {
         return 4;
 
         //another way of doing the same thing as above!
-        
+
 //        int position 4;
 //        if (playerScore >= 1000) {
 //            position = 1;
